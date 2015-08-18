@@ -3,7 +3,7 @@ using System;
 namespace Sharper.C.Lang.Typeclass
 {
     [AttributeUsage(AttributeTargets.Struct)]
-    public sealed class InstanceAttribute
+    public sealed class TypeclassInstanceAttribute
         : Attribute
     {
     }

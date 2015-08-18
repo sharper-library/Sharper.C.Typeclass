@@ -1,6 +1,6 @@
 {
   "locked": false,
-  "version": -9996,
+  "version": 1,
   "targets": {
     ".NETPlatform,Version=v5.0": {
       "System.Runtime/4.0.20": {
